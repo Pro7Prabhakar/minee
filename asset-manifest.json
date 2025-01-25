@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pro7Prabhakar.github.io/minee.git/static/css/main.6ce5e115.css",
+    "main.js": "/Pro7Prabhakar.github.io/minee.git/static/js/main.33de1523.js",
+    "index.html": "/Pro7Prabhakar.github.io/minee.git/index.html",
+    "main.6ce5e115.css.map": "/Pro7Prabhakar.github.io/minee.git/static/css/main.6ce5e115.css.map",
+    "main.33de1523.js.map": "/Pro7Prabhakar.github.io/minee.git/static/js/main.33de1523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce5e115.css",
+    "static/js/main.33de1523.js"
+  ]
+}
