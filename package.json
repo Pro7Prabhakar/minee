@@ -10,7 +10,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
-  "homepage": "https://github.com/Pro7Prabhakar.github.io/minee.git/",
+  "homepage": "https://github.com/Pro7Prabhakar.github.io/minee/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
